@@ -3,7 +3,7 @@ package ar.unju.escmi.tp2.ejercicio2;
 public class ejercicio2 {
     public static void main(String[] args) {
         //Declaracion Nombre y Apellido
-        String nombre1 = "María Diaz";
+        String nombre1 = "María Diaz ";
         String nombre2 = "Juan Gonzalez";
         String nombre3 = "Julieta Velazquez";
         String nombre4 = "Silvia Juarez";
